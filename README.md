@@ -10,7 +10,7 @@ Prerequisites
 
 Code
 ----------
-Please check the `code/` folder for the instructions.
+Please check the `Code/` folder for the instructions.
 
 
 Evaluation
