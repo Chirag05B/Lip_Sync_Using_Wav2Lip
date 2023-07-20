@@ -1,5 +1,8 @@
 # Lip_Sync_Using_Wav2Lip
  
+In this project i have used the Wav2Lip model to lip sync a video with an audio. 
+I then evaluated the performance of the model using the LSE-D and LSE-C metrics. The LSE-D metric is used to evaluate the lip sync performance of the model when the audio and video are from the same speaker. The LSE-C metric is used to evaluate the lip sync performance of the model when the audio and video are from different speakers. The LSE-D and LSE-C scores are calculated using the SyncNet model.
+
 Prerequisites
 -------------
 - `Python 3.6` 
