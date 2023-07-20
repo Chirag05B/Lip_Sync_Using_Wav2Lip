@@ -8,8 +8,8 @@ Prerequisites
 - Face detection [pre-trained model](https://www.adrianbulat.com/downloads/python-fan/s3fd-619a316812.pth) should be downloaded to `face_detection/detection/sfd/s3fd.pth`. Alternative [link](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/prajwal_k_research_iiit_ac_in/EZsy6qWuivtDnANIG73iHjIBjMSoojcIV0NULXV-yiuiIg?e=qTasa8) if the above does not work.
 
 ## Quick Guide
-1. Create video file named `input_video.mp4`. Please check `Inputs/` for the input video I used.
-2. Create audio file named `input_audio.wav`. Please check `Inputs/` for the input audio I used.
+1. Create video file named `input_video.mp4`. Please check `Inputs/` folder for the input video I used.
+2. Create audio file named `input_audio.wav`. Please check `Inputs/` folder for the input audio I used.
 3. Both file have to be of similar length
 4. Target face in the input_video.mp4 must be "detectable" in all video frames
 5. Make sure you use correct file extension (.mp4 and .wav)
