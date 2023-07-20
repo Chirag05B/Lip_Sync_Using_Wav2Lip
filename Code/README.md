@@ -4,7 +4,9 @@
 1. Create video file named input_video.mp4
 2. Create audio file named input_audio.wav
 3. Both file have to be of similar length
-4. Target face in the input_video.mp4 must be "detectable" at all times
+4. Target face in the input_video.mp4 must be "detectable" in all video frames
+5. Make sure you use correct file extension (.mp4 and .wav)
+6. Wav2Lip does not like very long and high resolution videos. Try to keep the video length under 30 seconds(max 60 seconds) and resolution under 720p(max 1080p).
  
 ## Setup Wav2Lip 
 Installing the dependencies and download the pretrained models. To do this run the first cell of the notebook.
