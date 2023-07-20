@@ -17,7 +17,7 @@ Prerequisites
 4. Target face in the input_video.mp4 must be "detectable" in all video frames.
 5. Make sure you use correct file extension (.mp4 and .wav)
 6. Wav2Lip does not like very long and high resolution videos. Try to keep the video length under 30 seconds(max 60 seconds) and resolution under 720p(max 1080p).
-7. The code and evaluation code should be run on defferent environments as there can be a version mis-match issue.
+7. The code and evaluation script should be run on different environments as there can be a version mis-match issue.
 
 Code
 ----------
