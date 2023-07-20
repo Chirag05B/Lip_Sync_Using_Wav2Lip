@@ -27,3 +27,7 @@ Please check the `Code/` folder for the instructions.
 Evaluation
 ----------
 Please check the `evaluation/` folder for the instructions.
+
+Results
+----------
+The LSE-D and LSE-C scores for the generated lip synced video are 12.357 and 0.765 respectively.

@@ -7,4 +7,6 @@
 5. Run the evaluation script to calculate the LSE-D and LSE-C scores
 
 Please see the `Lip_sync_evaluation.ipynb` notebook for the detailed steps.
+
+
  
