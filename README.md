@@ -1,7 +1,7 @@
 # Lip_Sync_Using_Wav2Lip
  
 In this project i have used the Wav2Lip model to lip sync a video with an audio. 
-I then evaluated the performance of the model using the LSE-D and LSE-C metrics. The LSE-D metric is used to evaluate the lip sync performance of the model when the audio and video are from the same speaker. The LSE-C metric is used to evaluate the lip sync performance of the model when the audio and video are from different speakers. The LSE-D and LSE-C scores are calculated using the SyncNet model.
+I then evaluated the performance of the model using the LSE-D and LSE-C metrics. The LSE-D(Lip Sync Error - Distance) metric is calculated in terms of the distance and audio representations, lower the LSE-D, higher the audio-visual matching. The LSE-C(Lip Sync Error - Confidence) metric refers to the average confidence score, the higher the LSE-c, better the audio-video correlation. The LSE-D and LSE-C scores are calculated using the SyncNet model.
 
 Prerequisites
 -------------
