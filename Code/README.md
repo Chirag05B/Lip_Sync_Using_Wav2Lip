@@ -1,7 +1,10 @@
 # Steps to Implement the Lip_Sync_Using_Wav2Lip Notebook
 
 ## Quick Guide
-
+1. Create video file named input_video.mp4
+2. Create audio file named input_audio.wav
+3. Both file have to be of similar length
+4. Target face in the input_video.mp4 must be "detectable" at all times
  
 ## Setup Wav2Lip 
 Installing the dependencies and download the pretrained models. To do this run the first cell of the notebook.
